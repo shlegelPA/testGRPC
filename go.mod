@@ -1,4 +1,4 @@
-module github.com/shlegelPA/testGRPC
+module github.com/shlegelPA/testGRPC/tree/main/gen/go/sso
 
 go 1.22.3
 
